@@ -1,6 +1,0 @@
-git init
-git add .
-git commit -m "Aggiunta relazioni suddivise per anno"
-git branch -M main
-git remote add origin https://github.com/appo00/Bachelor-s-projects.git
-git push -u origin main
